@@ -1,3 +1,9 @@
+
+![Screenshot 2024-08-04 094524](https://github.com/user-attachments/assets/67553143-de23-45c3-98d2-382436aa6bf8)
+![Screenshot 2024-08-04 094724](https://github.com/user-attachments/assets/5cd3a1a9-2c45-4e8c-8a5e-22d9f8e9e015)
+ This app takes care of your notes and locally stores whenever you need.
+
+ This app is implemented using State Managment, Search functionality, and Conditional Rendering
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -15,6 +21,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
