@@ -1,6 +1,7 @@
 
 ![Screenshot 2024-08-04 094524](https://github.com/user-attachments/assets/67553143-de23-45c3-98d2-382436aa6bf8)
-![Screenshot 2024-08-04 094724](https://github.com/user-attachments/assets/5cd3a1a9-2c45-4e8c-8a5e-22d9f8e9e015)
+![Screenshot 2024-08-04 094830](https://github.com/user-attachments/assets/91a92485-df8d-41d2-8ee0-14f73824b361)
+
  This app takes care of your notes and locally stores whenever you need.
 
  This app is implemented using State Managment, Search functionality, and Conditional Rendering
@@ -14,8 +15,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
